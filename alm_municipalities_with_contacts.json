@@ -1,0 +1,156 @@
+{
+  "source": "Alabama League of Municipalities",
+  "url": "https://alm.imiscloud.com/ALALM/ALALM/About/ALM-Municipal-Directory.aspx",
+  "scrapedAt": "2026-04-15T18:29:36.519Z",
+  "totalCount": 21,
+  "expectedTotal": 456,
+  "municipalities": [
+    {
+      "name": "1",
+      "email": "",
+      "phone": "",
+      "website": "",
+      "address": "2 3 4 5 6 7 8 9 10 ... Page size: Change page size 456 items in 23 pages"
+    },
+    {
+      "name": "Abbeville\tP. O. Box 427 Abbeville, AL 36310\t(334) 585-6444\twww.cityofabbeville.org\tmwilson@cityofabbeville.org",
+      "email": "mwilson@cityofabbeville.org",
+      "phone": "(334) 585-6444",
+      "website": "www.cityofabbeville.org",
+      "address": ""
+    },
+    {
+      "name": "Adamsville\tP. O. Box 309 Adamsville, AL 35005\t(205) 674-5671\twww.cityofadamsville.org\tlcarmichael@cityofadamsville.org",
+      "email": "lcarmichael@cityofadamsville.org",
+      "phone": "(205) 674-5671",
+      "website": "www.cityofadamsville.org",
+      "address": ""
+    },
+    {
+      "name": "Addison\tP. O. Box 98 Addison, AL 35540\t(256) 747-2971\twww.town-of-addison.com\taddisonc@hiwaay.net",
+      "email": "addisonc@hiwaay.net",
+      "phone": "(256) 747-2971",
+      "website": "www.town-of-addison.com",
+      "address": ""
+    },
+    {
+      "name": "Akron\tP. O. Box 8 Akron, AL 35441\t(205) 372-3148\t\ttownofakron2013@gmail.com",
+      "email": "townofakron2013@gmail.com",
+      "phone": "(205) 372-3148",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Alabaster\t1953 Municipal Way, Suite 101 Alabaster, AL 35007\t(205) 664-6800\twww.cityofalabaster.com\tcityhall@cityofalabaster.com",
+      "email": "cityhall@cityofalabaster.com",
+      "phone": "(205) 664-6800",
+      "website": "www.cityofalabaster.com",
+      "address": ""
+    },
+    {
+      "name": "Albertville\tP. O. Box 1248 Albertville, AL 35950\t(256) 891-8200\twww.cityofalbertville.com\tdawnsmith@cityofalbertvilleal.gov",
+      "email": "dawnsmith@cityofalbertvilleal.gov",
+      "phone": "(256) 891-8200",
+      "website": "www.cityofalbertville.com",
+      "address": ""
+    },
+    {
+      "name": "Alexander City\t281 James D. Nabors Dr Alexander City, AL 35010\t(256) 329-6700\twww.alexandercityal.gov\tcityclerk@alexandercityal.gov",
+      "email": "cityclerk@alexandercityal.gov",
+      "phone": "(256) 329-6700",
+      "website": "www.alexandercityal.gov",
+      "address": ""
+    },
+    {
+      "name": "Aliceville\t419 Memorial Pkwy, Ne Aliceville, AL 35442\t(205) 373-6611\twww.thecityofaliceville.com\tdmccaa@nctv.com",
+      "email": "dmccaa@nctv.com",
+      "phone": "(205) 373-6611",
+      "website": "www.thecityofaliceville.com",
+      "address": ""
+    },
+    {
+      "name": "Allgood\tP. O. Box 150 Allgood, AL 35013\t(205) 274-7138\t\ttownofallgood@gmail.com",
+      "email": "townofallgood@gmail.com",
+      "phone": "(205) 274-7138",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Altoona\tP. O. Box 279 Altoona, AL 35952\t(205) 589-2311\twww.youraltoona.us\taltoonaclerk@yahoo.com",
+      "email": "altoonaclerk@yahoo.com",
+      "phone": "(205) 589-2311",
+      "website": "www.youraltoona.us",
+      "address": ""
+    },
+    {
+      "name": "Andalusia\tP. O. Box 429 Andalusia, AL 36420\t(334) 222-3313\twww.cityofandalusia.com\tkelly.ralls@cityofandalusia.com",
+      "email": "kelly.ralls@cityofandalusia.com",
+      "phone": "(334) 222-3313",
+      "website": "www.cityofandalusia.com",
+      "address": ""
+    },
+    {
+      "name": "Anderson\tP. O. Box 8 Anderson, AL 35610\t(256) 247-3617\t\ttownofanderson@gmail.com",
+      "email": "townofanderson@gmail.com",
+      "phone": "(256) 247-3617",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Anniston\tP. O. Box 2168 Anniston, AL 36202\t(256) 236-3422\twww.annistonal.gov\tsbass@annistonal.gov",
+      "email": "sbass@annistonal.gov",
+      "phone": "(256) 236-3422",
+      "website": "www.annistonal.gov",
+      "address": ""
+    },
+    {
+      "name": "Arab\t740 N. Main Street Arab, AL 35016\t(256) 586-3544\twww.arabcity.org\tarab@arabcity.org",
+      "email": "arab@arabcity.org",
+      "phone": "(256) 586-3544",
+      "website": "www.arabcity.org",
+      "address": ""
+    },
+    {
+      "name": "Ardmore\t26494 First Street Ardmore, AL 35739\t(256) 423-2549\twww.townofardmorealabama.com\ttownofardmore@ardmore.net",
+      "email": "townofardmore@ardmore.net",
+      "phone": "(256) 423-2549",
+      "website": "www.townofardmorealabama.com",
+      "address": ""
+    },
+    {
+      "name": "Argo\t100 Blackjack Rd Argo, AL 35173\t(205) 352-2120\twww.cityofargo.org\tcity.argo@gmail.com",
+      "email": "city.argo@gmail.com",
+      "phone": "(205) 352-2120",
+      "website": "www.cityofargo.org",
+      "address": ""
+    },
+    {
+      "name": "Ariton\tP. O. Box 53 Ariton, AL 36311\t(334) 762-2266\t\ttownofariton1906@gmail.com",
+      "email": "townofariton1906@gmail.com",
+      "phone": "(334) 762-2266",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Arley\tP. O. Box 146 Arley, AL 35541\t(205) 387-0103\t\ttfarley@bellsouth.net",
+      "email": "tfarley@bellsouth.net",
+      "phone": "(205) 387-0103",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Ashford\tP. O. Box 428 Ashford, AL 36312\t(334) 899-3366\twww.cityofashford.com\tcityclerk@cityofashford.com",
+      "email": "cityclerk@cityofashford.com",
+      "phone": "(334) 899-3366",
+      "website": "www.cityofashford.com",
+      "address": ""
+    },
+    {
+      "name": "Ashland\tP. O. Box 849 Ashland, AL 36251\t(256) 354-2121\thttps://www.cityofashlandal.com\tashlandcity1871@outlook.com",
+      "email": "ashlandcity1871@outlook.com",
+      "phone": "(256) 354-2121",
+      "website": "www.cityofashlandal.com",
+      "address": ""
+    }
+  ]
+}

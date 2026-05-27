@@ -1,0 +1,53 @@
+{
+  "scrapedAt": "2026-04-15T18:10:57.331Z",
+  "cityCount": 5,
+  "cities": [
+    {
+      "name": "Abbeville",
+      "slug": "abbeville",
+      "url": "https://www.sos.alabama.gov/city-county-lookup/abbeville",
+      "officialsCount": 1,
+      "officials": [
+        "Circuit Clerk"
+      ]
+    },
+    {
+      "name": "Abemant",
+      "slug": "abemant",
+      "url": "https://www.sos.alabama.gov/city-county-lookup/abemant",
+      "officialsCount": 1,
+      "officials": [
+        "Circuit Clerk"
+      ]
+    },
+    {
+      "name": "Acmar",
+      "slug": "acmar",
+      "url": "https://www.sos.alabama.gov/city-county-lookup/acmar",
+      "officialsCount": 2,
+      "officials": [
+        "Circuit Clerk",
+        "Circuit Clerk"
+      ]
+    },
+    {
+      "name": "Adamsville",
+      "slug": "adamsville",
+      "url": "https://www.sos.alabama.gov/city-county-lookup/adamsville",
+      "officialsCount": 2,
+      "officials": [
+        "Circuit Clerk",
+        "Circuit Clerk"
+      ]
+    },
+    {
+      "name": "Addison",
+      "slug": "addison",
+      "url": "https://www.sos.alabama.gov/city-county-lookup/addison",
+      "officialsCount": 1,
+      "officials": [
+        "Circuit Clerk"
+      ]
+    }
+  ]
+}

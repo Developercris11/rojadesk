@@ -1,0 +1,234 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #10b981;
+  --color-accent: #6366f1;
+  --color-glass-white: rgba(255, 255, 255, 0.4);
+  --color-glass-dark: rgba(15, 23, 42, 0.4);
+}
+
+:root {
+  --background: #fdfeff;
+  --foreground: #020817;
+  --primary: #10b981;
+  --primary-foreground: #ffffff;
+  --secondary: #f1f5f9;
+  --secondary-foreground: #0f172a;
+  --accent: #6366f1;
+  --accent-foreground: #ffffff;
+  --border: rgba(226, 232, 240, 0.4);
+  --input: rgba(226, 232, 240, 0.5);
+  --ring: #10b981;
+  --radius: 1.5rem;
+}
+
+.dark {
+  --background: #020617;
+  --foreground: #f8fafc;
+  --primary: #10b981;
+  --primary-foreground: #ffffff;
+  --secondary: #1e293b;
+  --secondary-foreground: #f8fafc;
+  --accent: #6366f1;
+  --accent-foreground: #ffffff;
+  --border: rgba(255, 255, 255, 0.08);
+  --input: rgba(255, 255, 255, 0.05);
+  --ring: #10b981;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: 'Inter', system-ui, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Futuristic Mesh Gradient Background */
+.mesh-gradient {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-color: var(--background);
+  background-image:
+    radial-gradient(at 0% 0%, rgba(16, 185, 129, 0.15) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(99, 102, 241, 0.15) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, rgba(16, 185, 129, 0.1) 0px, transparent 50%),
+    radial-gradient(at 0% 100%, rgba(99, 102, 241, 0.1) 0px, transparent 50%);
+  filter: blur(80px);
+  animation: mesh-flow 20s ease-in-out infinite alternate;
+}
+
+@keyframes mesh-flow {
+  0% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(1.1) translate(20px, -20px);
+  }
+}
+
+/* Premium Glassmorphism Utility */
+@utility glass-precision {
+  @apply bg-slate-900/60 backdrop-blur-md border border-white/20 rounded-[3.5rem];
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.1), 0 20px 50px rgba(0, 0, 0, 0.5);
+}
+
+@utility glass-premium {
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.07);
+
+  @variant dark {
+    background: rgba(15, 23, 42, 0.4) !important;
+    border: 1px solid rgba(255, 255, 255, 0.08) !important;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+  }
+}
+
+/* Bento Grid Card Utility */
+@utility bento-card {
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.07);
+  border-radius: 2rem;
+  padding: 2rem;
+  transition: all 500ms ease-in-out;
+
+  @variant dark {
+    background: rgba(15, 23, 42, 0.4) !important;
+    border: 1px solid rgba(255, 255, 255, 0.08) !important;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+  }
+
+  &:hover {
+    transform: translateY(-0.5rem);
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25), 0 0 15px rgba(16, 185, 129, 0.1);
+  }
+}
+
+/* Glowing Button Utility */
+@utility glow-button {
+  position: relative;
+  overflow: hidden;
+  transition: all 300ms ease-in-out;
+  background: linear-gradient(135deg, #10b981, #6366f1);
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);
+
+  &:active {
+    transform: scale(0.95);
+  }
+
+  &:hover {
+    box-shadow: 0 8px 25px rgba(16, 185, 129, 0.6);
+    filter: brightness(1.1);
+  }
+}
+
+/* Soft Floating Animation for Landing Page */
+@keyframes soft-float {
+
+  0%,
+  100% {
+    transform: translateY(0) scale(1);
+  }
+
+  50% {
+    transform: translateY(-30px) scale(1.05);
+  }
+}
+
+.animate-soft-float {
+  animation: soft-float 8s ease-in-out infinite;
+}
+
+/* Access Input Utility */
+@utility access-input {
+  @apply w-full px-6 py-4 bg-slate-900/40 border border-white/10 rounded-2xl outline-none transition-all duration-300 backdrop-blur-md;
+
+  &:focus {
+    @apply border-emerald-500/50 bg-slate-900/60 ring-4 ring-emerald-500/10;
+    box-shadow: 0 0 20px rgba(16, 185, 129, 0.15);
+  }
+
+  &::placeholder {
+    @apply text-slate-300 font-bold uppercase tracking-widest text-[10px] opacity-100;
+  }
+}
+
+/* Background Layers */
+.bridge-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  background-image: url('/brooklyn_bridge.png');
+  background-size: cover;
+  background-position: center;
+  filter: brightness(1.0) saturate(1.1) contrast(1.1);
+}
+
+.statue-liberty-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  background-color: #0c1222;
+  background-image: url('/statue_of_liberty_wide.png');
+  background-size: cover;
+  background-position: center 30%;
+  filter: brightness(1.3) saturate(1.1) contrast(1.1);
+}
+
+.bridge-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background: radial-gradient(circle at center, transparent 0%, rgba(255, 255, 255, 0.05) 100%),
+    linear-gradient(to bottom, transparent 0%, rgba(255, 255, 255, 0.1) 100%);
+  box-shadow: 0 0 30px rgba(16, 185, 129, 0.1);
+}
+
+.liberty-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background: radial-gradient(circle at center, transparent 20%, rgba(255, 255, 255, 0.05) 100%),
+    linear-gradient(to bottom, transparent 0%, rgba(255, 255, 255, 0.1) 100%);
+}
+
+/* Updated Modern Color Utilities */
+@utility glow-emerald {
+  box-shadow: 0 0 30px rgba(16, 185, 129, 0.2);
+  border-color: rgba(16, 185, 129, 0.3);
+}
+
+@utility glow-indigo {
+  box-shadow: 0 0 30px rgba(99, 102, 241, 0.2);
+  border-color: rgba(99, 102, 241, 0.3);
+}
+
+@utility glass-luminous {
+  @apply backdrop-blur-2xl bg-white/65 border border-white/80 shadow-white/10 shadow-xl;
+}
+
+@utility badge-emerald {
+  @apply bg-emerald-500/10 text-emerald-500 ring-1 ring-emerald-500/20 uppercase tracking-widest text-[10px] font-black px-4 py-1.5 rounded-full;
+}
+
+@utility badge-indigo {
+  @apply bg-indigo-500/10 text-indigo-500 ring-1 ring-indigo-500/20 uppercase tracking-widest text-[10px] font-black px-4 py-1.5 rounded-full;
+}
+
+@utility badge-rose {
+  @apply bg-rose-500/10 text-rose-500 ring-1 ring-rose-500/20 uppercase tracking-widest text-[10px] font-black px-4 py-1.5 rounded-full;
+}
+
+@utility badge-amber {
+  @apply bg-amber-500/10 text-amber-500 ring-1 ring-amber-500/20 uppercase tracking-widest text-[10px] font-black px-4 py-1.5 rounded-full;
+}

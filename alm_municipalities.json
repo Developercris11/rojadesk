@@ -1,0 +1,1832 @@
+{
+  "source": "Alabama League of Municipalities",
+  "url": "https://alm.imiscloud.com/ALALM/ALALM/About/ALM-Municipal-Directory.aspx",
+  "scrapedAt": "2026-04-15T18:23:28.437Z",
+  "count": 456,
+  "municipalities": [
+    {
+      "name": "Abbeville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Adamsville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Addison",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Akron",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Alabaster",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Albertville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Alexander City",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Aliceville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Allgood",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Altoona",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Andalusia",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Anderson",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Anniston",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Arab",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Ardmore",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Argo",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Ariton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Arley",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Ashford",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Ashland",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Ashville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Athens",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Atmore",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Attalla",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Auburn",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Autaugaville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Avon",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Babbie",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Baileyton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Baker Hill",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Banks",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Bay Minette",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Bayou La Batre",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Bear Creek",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Beatrice",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Beaverton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Belk",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Benton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Berlin",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Berry",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Bessemer",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Billingsley",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Birmingham",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Black",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Blountsville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Blue Springs",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Boaz",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Boligee",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Bon Air",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Brantley",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Brent",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Brewton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Bridgeport",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Brighton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Brilliant",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Brookside",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Brookwood",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Brundidge",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Butler",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Calera",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Camden",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Camp Hill",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Carbon Hill",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Carolina",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Carrollton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Castleberry",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Cedar Bluff",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Center Point",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Centre",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Centreville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Chatom",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Chelsea",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Cherokee",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Cherokee Ridge",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Chickasaw",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Childersburg",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Citronelle",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Clanton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Clay",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Clayhatchee",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Clayton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Cleveland",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Clio",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Coaling",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Coffee Springs",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Coffeeville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Coker",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Collinsville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Colony",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Columbia",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Columbiana",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Coosada",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Cordova",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Cottonwood",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "County Line",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Courtland",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Cowarts",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Creola",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Crossville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Cuba",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Cullman",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Cusseta",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Dadeville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Daleville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Daphne",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Dauphin Island",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Daviston",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Dayton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Deatsville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Decatur",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Demopolis",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Detroit",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Dodge City",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Dora",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Dothan",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Double Springs",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Douglas",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Dozier",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Dutton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "East Brewton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Eclectic",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Edwardsville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Elba",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Elberta",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Eldridge",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Elkmont",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Elmore",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Emelle",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Enterprise",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Epes",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Eufaula",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Eutaw",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Eva",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Evergreen",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Excel",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Fairfield",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Fairhope",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Fairview",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Falkville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Faunsdale",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Fayette",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Five Points",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Flomaton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Florala",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Florence",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Foley",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Forkland",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Fort Deposit",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Fort Payne",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Franklin",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Fredonia",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Frisco City",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Fruithurst",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Fulton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Fultondale",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Fyffe",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Gadsden",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Gainesville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Gantt",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Garden City",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Gardendale",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Gaylesville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Geiger",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Geneva",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Georgiana",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Geraldine",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Gilbertown",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Glen Allen",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Glencoe",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Glenwood",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Good Hope",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Goodwater",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Gordo",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Gordon",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Gordonville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Goshen",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Grant",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Graysville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Greensboro",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Greenville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Grimes",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Grove Hill",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Guin",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Gulf Shores",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Guntersville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Gurley",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hackleburg",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Haleburg",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Haleyville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hamilton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hammondville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hanceville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Harpersville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hartford",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hartselle",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hayden",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hayneville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Headland",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Heath",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Heflin",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Helena",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Henagar",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Highland Lake",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hillsboro",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hobson City",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hodges",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hokes Bluff",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Holly Pond",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hollywood",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Homewood",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hoover",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hueytown",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Huntsville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hurtsboro",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Hytop",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Ider",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Indian Springs",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Irondale",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Jackson",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Jackson's Gap",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Jacksonville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Jasper",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Jemison",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Kellyton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Kennedy",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Killen",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Kilpatrick",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Kimberly",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Kinsey",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Kinston",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Lafayette",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Lake View",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Lakeview",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Lanett",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Langston",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Leeds",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Leesburg",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Leighton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Level Plains",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Lexington",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Lincoln",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Linden",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Lineville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Lipscomb",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Lisman",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Littleville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Livingston",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Loachapoka",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Lockhart",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Locust Fork",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Louisville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Lowndesboro",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Loxley",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Luverne",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Lynn",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Madison",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Madrid",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Magnolia Springs",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Malvern",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Maplesville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Margaret",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Marion",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Maytown",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Mcintosh",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Mckenzie",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Mcmullen",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Mentone",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Midfield",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Midland City",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Midway",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Millbrook",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Millport",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Millry",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Mobile",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Monroeville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Montevallo",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Montgomery",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Moody",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Mooresville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Morris",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Mosses",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Moulton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Moundville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Mount Vernon",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Mountain Brook",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Mulga",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Munford",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Muscle Shoals",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Myrtlewood",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Napier Field",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Natural Bridge",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Nauvoo",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Nectar",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Needham",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "New Brockton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "New Hope",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "New Site",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Newbern",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Newton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Newville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "North Courtland",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "North Johns",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Northport",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Notasulga",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Oak Grove",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Oak Hill",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Oakman",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Odenville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Ohatchee",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Oneonta",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Onycha",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Opelika",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Opp",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Orange Beach",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Orrville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Owens Cross Roads",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Oxford",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Ozark",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Paint Rock",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Parrish",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Pelham",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Pell City",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Pennington",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Perdido Beach",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Petrey",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Phenix City",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Phil Campbell",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Pickensville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Piedmont",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Pike Road",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Pinckard",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Pine Apple",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Pine Hill",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Pine Level",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Pine Ridge",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Pinson",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Pisgah",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Pleasant Grove",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Pleasant Groves",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Powell",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Prattville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Priceville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Prichard",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Providence",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Ragland",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Rainbow City",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Rainsville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Ranburne",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Red Bay",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Red Level",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Reece City",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Reform",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Rehobeth",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Repton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Ridgeville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "River Falls",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Riverside",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Riverview",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Roanoke",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Robertsdale",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Rockford",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Rogersville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Rosa",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Russellville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Rutledge",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Saint Florian",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Samson",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Sand Rock",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Sanford",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Saraland",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Sardis City",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Satsuma",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Scottsboro",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Section",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Selma",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Semmes",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Sheffield",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Shiloh",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Shorter",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Silas",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Silverhill",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Skyline",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Slocomb",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Smiths Station",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Snead",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Somerville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "South Vinemont",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Southside",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Spanish Fort",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Springville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Steele",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Stevenson",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Sulligent",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Sumiton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Summerdale",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Susan Moore",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Sweet Water",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Sylacauga",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Sylvan Springs",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Sylvania",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Talladega",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Talladega Springs",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Tallassee",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Tarrant",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Taylor",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Test Company",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Thomaston",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Thomasville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Thorsby",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Town Creek",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Toxey",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Trafford",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Triana",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Trinity",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Troy",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Trussville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Tuscaloosa",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Tuscumbia",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Tuskegee",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Twin",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Union",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Union Grove",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Union Springs",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Uniontown",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Valley",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Valley Grande",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Valley Head",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Vance",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Vernon",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Vestavia Hills",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Vina",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Vincent",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Vredenburgh",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Wadley",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Waldo",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Walnut Grove",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Warrior",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Waterloo",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Waverly",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Weaver",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Webb",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Wedowee",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "West Blocton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "West Jefferson",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "West Point",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Westover",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Wetumpka",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "White Hall",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Wilsonville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Wilton",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Winfield",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Woodland",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Woodstock",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Woodville",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "Yellow Bluff",
+      "source": "ALM Directory"
+    },
+    {
+      "name": "York",
+      "source": "ALM Directory"
+    }
+  ]
+}

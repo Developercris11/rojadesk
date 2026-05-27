@@ -1,0 +1,29 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "nodeVersion": "20.x",
+  "env": [
+    {
+      "key": "NEXTAUTH_URL",
+      "value": "@NEXTAUTH_URL"
+    },
+    {
+      "key": "NEXTAUTH_SECRET",
+      "value": "@NEXTAUTH_SECRET"
+    },
+    {
+      "key": "DATABASE_URL",
+      "value": "@DATABASE_URL"
+    }
+  ],
+  "buildOutputDirectory": ".next",
+  "outputDirectory": ".next",
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "/api/:path*"
+    }
+  ]
+}

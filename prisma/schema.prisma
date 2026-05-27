@@ -1,0 +1,88 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+enum AccountType {
+  LARGE
+  REGULAR
+}
+
+model Agency {
+  id              String      @id @default(cuid())
+  name            String
+  orgId           String      @unique
+  region          String
+  accountType     AccountType @default(REGULAR)
+  lastCheckInDate DateTime?
+  taxRate         Float?
+  assignedRep     String?
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime    @updatedAt
+  notes           Note[]
+}
+
+model Note {
+  id        String   @id @default(cuid())
+  content   String
+  createdAt DateTime @default(now())
+  agencyId  String
+  agency    Agency   @relation(fields: [agencyId], references: [id])
+}
+
+model Lead {
+  id          String   @id @default(cuid())
+  companyName String
+  phoneNumber String
+  website     String?
+  category    String?
+  state       String?
+  city        String?
+  zipCode     String?
+  source      String   @default("PROSPECTOR")
+  sourceUrl   String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([category])
+  @@index([state])
+  @@index([city])
+}
+
+model TeamMember {
+  id          String   @id @default(cuid())
+  team        String   
+  name        String   
+  cedula      String   
+  position    String
+  startDate   String   // Storing as string to support flexible formats
+  increaseDue String?  
+  email       String
+  leader      String
+  salary      String
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([team])
+}
+
+model AlabamaMunicipality {
+  id          String   @id @default(cuid())
+  name        String   @unique
+  email       String?
+  phone       String?
+  website     String?
+  source      String   @default("ALM")
+  dataImport  String   @default("ALM Municipality Directory")
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([name])
+}

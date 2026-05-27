@@ -1,0 +1,437 @@
+{
+  "source": "Alabama League of Municipalities (ALM)",
+  "url": "https://alm.imiscloud.com/ALALM/ALALM/About/ALM-Municipal-Directory.aspx",
+  "scrapedAt": "2026-04-15T18:32:57.872Z",
+  "totalCount": 61,
+  "expectedCount": 456,
+  "dataQuality": "Incomplete",
+  "municipalities": [
+    {
+      "name": "...",
+      "email": "",
+      "phone": "",
+      "website": "",
+      "address": "11 12 13 14 15 16 17 18 19 20 ... Page size: Change page size 456 items in 23 pages"
+    },
+    {
+      "name": "Abbeville\tP. O. Box 427 Abbeville, AL 36310\t(334) 585-6444\twww.cityofabbeville.org\tmwilson@cityofabbeville.org",
+      "email": "mwilson@cityofabbeville.org",
+      "phone": "(334) 585-6444",
+      "website": "www.cityofabbeville.org",
+      "address": ""
+    },
+    {
+      "name": "Adamsville\tP. O. Box 309 Adamsville, AL 35005\t(205) 674-5671\twww.cityofadamsville.org\tlcarmichael@cityofadamsville.org",
+      "email": "lcarmichael@cityofadamsville.org",
+      "phone": "(205) 674-5671",
+      "website": "www.cityofadamsville.org",
+      "address": ""
+    },
+    {
+      "name": "Addison\tP. O. Box 98 Addison, AL 35540\t(256) 747-2971\twww.town-of-addison.com\taddisonc@hiwaay.net",
+      "email": "addisonc@hiwaay.net",
+      "phone": "(256) 747-2971",
+      "website": "www.town-of-addison.com",
+      "address": ""
+    },
+    {
+      "name": "Akron\tP. O. Box 8 Akron, AL 35441\t(205) 372-3148\t\ttownofakron2013@gmail.com",
+      "email": "townofakron2013@gmail.com",
+      "phone": "(205) 372-3148",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Alabaster\t1953 Municipal Way, Suite 101 Alabaster, AL 35007\t(205) 664-6800\twww.cityofalabaster.com\tcityhall@cityofalabaster.com",
+      "email": "cityhall@cityofalabaster.com",
+      "phone": "(205) 664-6800",
+      "website": "www.cityofalabaster.com",
+      "address": ""
+    },
+    {
+      "name": "Albertville\tP. O. Box 1248 Albertville, AL 35950\t(256) 891-8200\twww.cityofalbertville.com\tdawnsmith@cityofalbertvilleal.gov",
+      "email": "dawnsmith@cityofalbertvilleal.gov",
+      "phone": "(256) 891-8200",
+      "website": "www.cityofalbertville.com",
+      "address": ""
+    },
+    {
+      "name": "Alexander City\t281 James D. Nabors Dr Alexander City, AL 35010\t(256) 329-6700\twww.alexandercityal.gov\tcityclerk@alexandercityal.gov",
+      "email": "cityclerk@alexandercityal.gov",
+      "phone": "(256) 329-6700",
+      "website": "www.alexandercityal.gov",
+      "address": ""
+    },
+    {
+      "name": "Aliceville\t419 Memorial Pkwy, Ne Aliceville, AL 35442\t(205) 373-6611\twww.thecityofaliceville.com\tdmccaa@nctv.com",
+      "email": "dmccaa@nctv.com",
+      "phone": "(205) 373-6611",
+      "website": "www.thecityofaliceville.com",
+      "address": ""
+    },
+    {
+      "name": "Allgood\tP. O. Box 150 Allgood, AL 35013\t(205) 274-7138\t\ttownofallgood@gmail.com",
+      "email": "townofallgood@gmail.com",
+      "phone": "(205) 274-7138",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Altoona\tP. O. Box 279 Altoona, AL 35952\t(205) 589-2311\twww.youraltoona.us\taltoonaclerk@yahoo.com",
+      "email": "altoonaclerk@yahoo.com",
+      "phone": "(205) 589-2311",
+      "website": "www.youraltoona.us",
+      "address": ""
+    },
+    {
+      "name": "Andalusia\tP. O. Box 429 Andalusia, AL 36420\t(334) 222-3313\twww.cityofandalusia.com\tkelly.ralls@cityofandalusia.com",
+      "email": "kelly.ralls@cityofandalusia.com",
+      "phone": "(334) 222-3313",
+      "website": "www.cityofandalusia.com",
+      "address": ""
+    },
+    {
+      "name": "Anderson\tP. O. Box 8 Anderson, AL 35610\t(256) 247-3617\t\ttownofanderson@gmail.com",
+      "email": "townofanderson@gmail.com",
+      "phone": "(256) 247-3617",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Anniston\tP. O. Box 2168 Anniston, AL 36202\t(256) 236-3422\twww.annistonal.gov\tsbass@annistonal.gov",
+      "email": "sbass@annistonal.gov",
+      "phone": "(256) 236-3422",
+      "website": "www.annistonal.gov",
+      "address": ""
+    },
+    {
+      "name": "Arab\t740 N. Main Street Arab, AL 35016\t(256) 586-3544\twww.arabcity.org\tarab@arabcity.org",
+      "email": "arab@arabcity.org",
+      "phone": "(256) 586-3544",
+      "website": "www.arabcity.org",
+      "address": ""
+    },
+    {
+      "name": "Ardmore\t26494 First Street Ardmore, AL 35739\t(256) 423-2549\twww.townofardmorealabama.com\ttownofardmore@ardmore.net",
+      "email": "townofardmore@ardmore.net",
+      "phone": "(256) 423-2549",
+      "website": "www.townofardmorealabama.com",
+      "address": ""
+    },
+    {
+      "name": "Argo\t100 Blackjack Rd Argo, AL 35173\t(205) 352-2120\twww.cityofargo.org\tcity.argo@gmail.com",
+      "email": "city.argo@gmail.com",
+      "phone": "(205) 352-2120",
+      "website": "www.cityofargo.org",
+      "address": ""
+    },
+    {
+      "name": "Ariton\tP. O. Box 53 Ariton, AL 36311\t(334) 762-2266\t\ttownofariton1906@gmail.com",
+      "email": "townofariton1906@gmail.com",
+      "phone": "(334) 762-2266",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Arley\tP. O. Box 146 Arley, AL 35541\t(205) 387-0103\t\ttfarley@bellsouth.net",
+      "email": "tfarley@bellsouth.net",
+      "phone": "(205) 387-0103",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Ashford\tP. O. Box 428 Ashford, AL 36312\t(334) 899-3366\twww.cityofashford.com\tcityclerk@cityofashford.com",
+      "email": "cityclerk@cityofashford.com",
+      "phone": "(334) 899-3366",
+      "website": "www.cityofashford.com",
+      "address": ""
+    },
+    {
+      "name": "Ashland\tP. O. Box 849 Ashland, AL 36251\t(256) 354-2121\thttps://www.cityofashlandal.com\tashlandcity1871@outlook.com",
+      "email": "ashlandcity1871@outlook.com",
+      "phone": "(256) 354-2121",
+      "website": "https://www.cityofashlandal.com",
+      "address": ""
+    },
+    {
+      "name": "Helena\tP. O. Box 613 Helena, AL 35080\t(205) 663-2161\twww.cityofhelena.org\tmharris@cityofhelena.org",
+      "email": "mharris@cityofhelena.org",
+      "phone": "(205) 663-2161",
+      "website": "www.cityofhelena.org",
+      "address": ""
+    },
+    {
+      "name": "Henagar\tP. O. Box 39 Henagar, AL 35978\t(256) 657-6282\twww.cityofhenagar.com\tcityofhenagar@farmerstel.com",
+      "email": "cityofhenagar@farmerstel.com",
+      "phone": "(256) 657-6282",
+      "website": "www.cityofhenagar.com",
+      "address": ""
+    },
+    {
+      "name": "Highland Lake\t612 Lakeshore Dr. Highland Lake, AL 35121\t(205) 625-6407\twww.townofhighlandlake.com\thighlandlake612@gmail.com",
+      "email": "highlandlake612@gmail.com",
+      "phone": "(205) 625-6407",
+      "website": "www.townofhighlandlake.com",
+      "address": ""
+    },
+    {
+      "name": "Hillsboro\tP. O. Box 10 Hillsboro, AL 35643\t(256) 637-2070\t\tcityofhillsboro1@bellsouth.net",
+      "email": "cityofhillsboro1@bellsouth.net",
+      "phone": "(256) 637-2070",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Hobson City\t715 Martin L. King, Jr. Dr. Hobson City, AL 36201\t(256) 831-4940\twww.townofhobsoncity.com\thobsoncityclerk@bellsouth.net",
+      "email": "hobsoncityclerk@bellsouth.net",
+      "phone": "(256) 831-4940",
+      "website": "www.townofhobsoncity.com",
+      "address": ""
+    },
+    {
+      "name": "Hodges\tP. O. Box 87 Hodges, AL 35571\t(205) 935-3445\t\ttownofhodges1907@outlook.com",
+      "email": "townofhodges1907@outlook.com",
+      "phone": "(205) 935-3445",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Hokes Bluff\tP. O. Box 2338 East Gadsden, AL 35903\t(256) 492-2414\twww.cityofhokesbluff.com\thbcity@cityofhokesbluff.com",
+      "email": "hbcity@cityofhokesbluff.com",
+      "phone": "(256) 492-2414",
+      "website": "www.cityofhokesbluff.com",
+      "address": ""
+    },
+    {
+      "name": "Holly Pond\tP. O. Box 9 Holly Pond, AL 35083\t(256) 796-2124\twww.townofhollypond.com\ttownofhollypond@outlook.com",
+      "email": "townofhollypond@outlook.com",
+      "phone": "(256) 796-2124",
+      "website": "www.townofhollypond.com",
+      "address": ""
+    },
+    {
+      "name": "Hollywood\tP. O. Box 240 Hollywood, AL 35752\t(256) 259-4845\twww.thetownofhollywood.com\ttownofhollywood@yahoo.com",
+      "email": "townofhollywood@yahoo.com",
+      "phone": "(256) 259-4845",
+      "website": "www.thetownofhollywood.com",
+      "address": ""
+    },
+    {
+      "name": "Homewood\tP. O. Box 59666 Homewood, AL 35259\t(205) 332-6100\twww.homewoodal.net\tbo.seagrist@homewoodal.org",
+      "email": "bo.seagrist@homewoodal.org",
+      "phone": "(205) 332-6100",
+      "website": "www.homewoodal.net",
+      "address": ""
+    },
+    {
+      "name": "Hoover\t100 Municipal Lane Hoover, AL 35216\t(205) 444-7500\twww.hooveralabama.gov\twendy.dickerson@hooveralabama.gov",
+      "email": "wendy.dickerson@hooveralabama.gov",
+      "phone": "(205) 444-7500",
+      "website": "www.hooveralabama.gov",
+      "address": ""
+    },
+    {
+      "name": "Hueytown\t1318 Hueytown Road Hueytown, AL 35023\t(205) 491-7010\thttp://hueytownal.org\tkfouts@hueytownal.org",
+      "email": "kfouts@hueytownal.org",
+      "phone": "(205) 491-7010",
+      "website": "http://hueytownal.org",
+      "address": ""
+    },
+    {
+      "name": "Huntsville\tP. O. Box 308 Huntsville, AL 35804\t(256) 427-5000\twww.huntsvilleal.gov\tshaundrika.edwards@huntsvilleal.gov",
+      "email": "shaundrika.edwards@huntsvilleal.gov",
+      "phone": "(256) 427-5000",
+      "website": "www.huntsvilleal.gov",
+      "address": ""
+    },
+    {
+      "name": "Hurtsboro\tP. O. Box 358 Hurtsboro, AL 36860\t(334) 667-7771\twww.hurtsboro.us\ttownclerkhurtsboro@gmail.com",
+      "email": "townclerkhurtsboro@gmail.com",
+      "phone": "(334) 667-7771",
+      "website": "www.hurtsboro.us",
+      "address": ""
+    },
+    {
+      "name": "Hytop\t30332 Alabama Highway 79 Scottsboro, AL 35768\t(256) 587-6094\t\thytoptown@centurytel.net",
+      "email": "hytoptown@centurytel.net",
+      "phone": "(256) 587-6094",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Ider\tP. O. Box 157 Ider, AL 35981\t(256) 657-4184\t\ttownofiderclerk@farmerstel.com",
+      "email": "townofiderclerk@farmerstel.com",
+      "phone": "(256) 657-4184",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Indian Springs\t2635 Cahaba Valley Rd. Indian Springs, AL 35124\t(205) 982-1755\twww.indianspringsvillage.org\ttownclerk@indianspringsvillage.org",
+      "email": "townclerk@indianspringsvillage.org",
+      "phone": "(205) 982-1755",
+      "website": "www.indianspringsvillage.org",
+      "address": ""
+    },
+    {
+      "name": "Irondale\tP.O. Box 100188 Irondale, AL 35210\t(205) 956-9200\thttps://www.cityofirondaleal.gov\tmlockridge@cityofirondaleal.gov",
+      "email": "mlockridge@cityofirondaleal.gov",
+      "phone": "(205) 956-9200",
+      "website": "https://www.cityofirondaleal.gov",
+      "address": ""
+    },
+    {
+      "name": "Jackson\tP. O. Box 1096 Jackson, AL 36545\t(251) 246-2461\thttp://cityofjacksonal.com\tinfo@cityhalljacksonal.com",
+      "email": "info@cityhalljacksonal.com",
+      "phone": "(251) 246-2461",
+      "website": "http://cityofjacksonal.com",
+      "address": ""
+    },
+    {
+      "name": "Jackson's Gap\tP. O. Box 162 Jackson's Gap, AL 36861\t(256) 825-8518\ttownofjacksonsgap.com\tkt.jgmtownhall@gmail.com",
+      "email": "kt.jgmtownhall@gmail.com",
+      "phone": "(256) 825-8518",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Talladega\tP.O. Box 498 Talladega, AL 35161\t(256) 362-8186\twww.talladega.com\tjmedlen@talladega.com",
+      "email": "jmedlen@talladega.com",
+      "phone": "(256) 362-8186",
+      "website": "www.talladega.com",
+      "address": ""
+    },
+    {
+      "name": "Talladega Springs\t40 Granberry Drive Sylacauga, AL 35151\t(256) 249-0802\t\tmv7535@yahoo.com",
+      "email": "mv7535@yahoo.com",
+      "phone": "(256) 249-0802",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Tallassee\t3 Freeman Ave. Tallassee, AL 36078\t(334) 283-6571\twww.tallassee-al.gov\tcityclerk@tallassee-al.gov",
+      "email": "cityclerk@tallassee-al.gov",
+      "phone": "(334) 283-6571",
+      "website": "www.tallassee-al.gov",
+      "address": ""
+    },
+    {
+      "name": "Tarrant\t1604 Pinson Valley Parkway Tarrant, AL 35217\t(205) 849-2800\twww.cityoftarrant.com\tclerk@cityoftarrant.com",
+      "email": "clerk@cityoftarrant.com",
+      "phone": "(205) 849-2800",
+      "website": "www.cityoftarrant.com",
+      "address": ""
+    },
+    {
+      "name": "Taylor\t1469 South State Highway 605 Taylor, AL 36301\t(334) 677-5079\t\tcityclerk@cityoftaylor.org",
+      "email": "cityclerk@cityoftaylor.org",
+      "phone": "(334) 677-5079",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Test Company\tPO Box 1270 Montgomery, AL 36102-1270\t(334) 262-2566\twww.almonline.org\talmimistest@gmail.com",
+      "email": "almimistest@gmail.com",
+      "phone": "(334) 262-2566",
+      "website": "www.almonline.org",
+      "address": ""
+    },
+    {
+      "name": "Thomaston\tP. O. Box 276 Thomaston, AL 36783\t(334) 627-3434\twww.townofthomaston.com\tthomastontot@frontiernet.net",
+      "email": "thomastontot@frontiernet.net",
+      "phone": "(334) 627-3434",
+      "website": "www.townofthomaston.com",
+      "address": ""
+    },
+    {
+      "name": "Thomasville\tP. O. Box 127 Thomasville, AL 36784\t(334) 636-5827\twww.thomasvilleal.com\tahuckabee@thomasvilleal.com",
+      "email": "ahuckabee@thomasvilleal.com",
+      "phone": "(334) 636-5827",
+      "website": "www.thomasvilleal.com",
+      "address": ""
+    },
+    {
+      "name": "Thorsby\tP. O. Box 608 Thorsby, AL 35171\t(205) 646-3575\twww.townofthorsby.org\tcrystal11@thorsbyal.com",
+      "email": "crystal11@thorsbyal.com",
+      "phone": "(205) 646-3575",
+      "website": "www.townofthorsby.org",
+      "address": ""
+    },
+    {
+      "name": "Town Creek\tP. O. Box 190 Town Creek, AL 35672\t(256) 685-3344\t\ttccityhall@bellsouth.net",
+      "email": "tccityhall@bellsouth.net",
+      "phone": "(256) 685-3344",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Toxey\tP. O. Box 318 Toxey, AL 36921\t(251) 843-5222\t\ttownoftoxey@gmail.com",
+      "email": "townoftoxey@gmail.com",
+      "phone": "(251) 843-5222",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Trafford\t9239 E. Commercial Ave. Trafford, AL 35172\t(205) 647-3751\t\ttraffordtownof@bellsouth.net",
+      "email": "traffordtownof@bellsouth.net",
+      "phone": "(205) 647-3751",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Triana\t640 Sixth St. Madison, AL 35756\t(256) 772-0151\twww.townoftriana.com\tttriana@bellsouth.net",
+      "email": "ttriana@bellsouth.net",
+      "phone": "(256) 772-0151",
+      "website": "www.townoftriana.com",
+      "address": ""
+    },
+    {
+      "name": "Trinity\t35 Preston Dr. Trinity, AL 35673\t(256) 353-2474\twww.trinityal.gov/\tapatterson@trinityal.gov",
+      "email": "apatterson@trinityal.gov",
+      "phone": "(256) 353-2474",
+      "website": "www.trinityal.gov",
+      "address": ""
+    },
+    {
+      "name": "Troy\tP. O. Box 549 Troy, AL 36081\t(334) 566-0177\twww.troyal.gov\tshannon.bryan@troyal.gov",
+      "email": "shannon.bryan@troyal.gov",
+      "phone": "(334) 566-0177",
+      "website": "www.troyal.gov",
+      "address": ""
+    },
+    {
+      "name": "Trussville\tP. O. Box 159 Trussville, AL 35173\t(205) 655-7478\twww.trussville.org\tcity@trussville.org",
+      "email": "city@trussville.org",
+      "phone": "(205) 655-7478",
+      "website": "www.trussville.org",
+      "address": ""
+    },
+    {
+      "name": "Tuscaloosa\tP. O. Box 2089 Tuscaloosa, AL 35403\t(205) 248-5010\twww.tuscaloosa.com\tcityclerk@tuscaloosa.com",
+      "email": "cityclerk@tuscaloosa.com",
+      "phone": "(205) 248-5010",
+      "website": "www.tuscaloosa.com",
+      "address": ""
+    },
+    {
+      "name": "Tuscumbia\tP. O. Box 29 Tuscumbia, AL 35674\t(256) 383-5463\tcityoftuscumbia.org\tleabraw@cityoftuscumbia.org",
+      "email": "leabraw@cityoftuscumbia.org",
+      "phone": "(256) 383-5463",
+      "website": "",
+      "address": ""
+    },
+    {
+      "name": "Tuskegee\tP. O. Box 830687 Tuskegee, AL 36083\t(334) 720-0500\twww.tuskegeealabama.gov\tfclark@tuskegeealabama.gov",
+      "email": "fclark@tuskegeealabama.gov",
+      "phone": "(334) 720-0500",
+      "website": "www.tuskegeealabama.gov",
+      "address": ""
+    },
+    {
+      "name": "Twin\t6125 State Highway 253 Guin, AL 35563\t(295) 468-0036\t\ttown029@centurytel.net",
+      "email": "town029@centurytel.net",
+      "phone": "(295) 468-0036",
+      "website": "",
+      "address": ""
+    }
+  ]
+}

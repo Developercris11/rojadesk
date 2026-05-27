@@ -1,0 +1,96 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Next.js
+/.next/
+/out/
+.next
+dist
+
+# Production
+/build
+/dist
+
+# Environment
+.env
+.env.local
+.env.*.local
+.env.production.local
+.env.development.local
+.env.test.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.sublime-project
+.sublime-workspace
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs (archivos de log del sistema)
+logs/*.log
+logs/*.txt
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+debug_*.txt
+dev_log.txt
+build_error_*.txt
+prisma_err.log
+prisma_out.txt
+server_debug.log
+
+# Temporary files (NO incluir archivos temporales)
+tmp/
+temp/
+*.tmp
+
+# HTML Exports temporales (gitignore pero mantener en data/exports/)
+data/exports/*.html
+*.bak
+prisma.config.ts.bak
+next-env.d.ts
+
+# Build and development
+dist/
+build/
+.turbo/
+.cache/
+
+# Prisma
+/prisma/dev.db
+/prisma/dev.db-journal
+
+# Package manager locks
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Mantener datos iniciales en data/sources/
+# Pero ignorar exports de debugging
+# data/sources/ ← INCLUIR en git
+
+# Imágenes de testing
+bbb_test.png
+bbb_mobile_test.png
+
+# Archivos de backup
+*.xlsx~
+*.csv.bak
+
+# Inspector/Debug files temporales
+tmp_bbb_debug.html
+tmp_inspect_*.js
