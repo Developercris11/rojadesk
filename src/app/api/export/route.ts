@@ -71,12 +71,20 @@ export async function GET(request: Request) {
         const workbook = XLSX.utils.book_new();
 
         // Group leads by city
-        const cityGroups = leads.reduce((acc: Record<string, any[]>, lead) => {
-            const cityName = lead.city || 'Unclassified';
-            if (!acc[cityName]) acc[cityName] = [];
-            acc[cityName].push(lead);
-            return acc;
-        }, {});
+       const cityGroups = leads.reduce(
+  (acc: Record<string, Lead[]>, lead: Lead) => {
+    const cityName = lead.city || 'Unclassified';
+
+    if (!acc[cityName]) {
+      acc[cityName] = [];
+    }
+
+    acc[cityName].push(lead);
+
+    return acc;
+  },
+  {}
+);
 
         // Create a sheet for each city
         Object.entries(cityGroups).forEach(([cityName, groupLeads]) => {
